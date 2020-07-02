@@ -91,7 +91,7 @@ input[type="file"] {
     display: block;
     text-align: center;
     left: 50%;
-    top: 55%;
+    top: 65%;
     transform:  translate(-50%, -50%);
 }
 
