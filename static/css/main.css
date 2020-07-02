@@ -95,12 +95,13 @@ input[type="file"] {
     height: auto;
 }
 
+/*
 .recycle-bin{
     text-align: center;
     z-index: -1;
     bottom: 57px;
-    /* position: relative; */
-}
+    // position: relative;
+}*/
 
 .recycle-icon{
     z-index: -1;
