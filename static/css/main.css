@@ -90,12 +90,11 @@ input[type="file"] {
     top: 250px;
 }
 
+/*
 .resize-bin{
     width: 340px;
     height: auto;
 }
-
-/*
 .recycle-bin{
     text-align: center;
     z-index: -1;
@@ -108,7 +107,7 @@ input[type="file"] {
 }
 
 .resize-icon{
-    width:  100px;
+    width:  150px;
     height: auto;
     z-index: -1;
 }
