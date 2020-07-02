@@ -89,7 +89,9 @@ input[type="file"] {
     position: relative;
     display: block;
     text-align: center;
-    top: 45px;
+    left: 50%;
+    top: 50%;
+    transform:  translate(-50%, -50%);
 }
 
 /*
