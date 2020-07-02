@@ -27,7 +27,7 @@ $(document).ready(function () {
         readURL(this);
 
         var Bin = document.getElementById("uinf");
-        Bin.getElementsByClassName("recycle-bin")[0].style.position = "relative";
+        /*Bin.getElementsByClassName("recycle-bin")[0].style.position = "relative";*/
     });
 
     // Predict
