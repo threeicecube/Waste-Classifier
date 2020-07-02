@@ -50,7 +50,7 @@ $(document).ready(function () {
                 // Get and display the result
                 $('.loader').hide();
                 $('#result').fadeIn(600);
-                $('#result').text(' Model predicts the garbage as:  ' + data);
+                $('#result').text(' Model predicts the waste as:  ' + data);
                 console.log('Success!');
             },
         });
