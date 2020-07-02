@@ -21,6 +21,7 @@ input[type="file"] {
 }
 
 .upload-label{
+    border-radius: 25px;
     display: inline-block;
     padding: 12px 30px;
     background: #8fe9a3;
