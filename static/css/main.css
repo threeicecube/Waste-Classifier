@@ -51,9 +51,9 @@ input[type="file"] {
 
     /* changes */
     position: relative;
-    top: 50%;
     left: 47.7%;
-    transform:  translate(-47.7%, -50%)
+    top: 10px;
+    transform:  translate(-47.7%, 0%)
 }
 
 @keyframes spin {
@@ -76,8 +76,8 @@ input[type="file"] {
     position: relative;
     /* top: 80px; */
     left: 50%;
-    top: 50%;
-    transform:  translate(-50%, -50%);
+    top: 10px;
+    transform:  translate(-50%, 0%);
     
 }
 
