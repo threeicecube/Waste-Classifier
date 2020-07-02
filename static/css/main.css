@@ -74,10 +74,10 @@ input[type="file"] {
 .predict-btn{
     position: relative;
     /* top: 80px; */
-    /*left: 50%;
-    transform:  translate(-50%, 420%);
-    */
-    top: 50px;
+    left: 50%;
+    top: 50%;
+    transform:  translate(-50%, -50%);
+    
 }
 
 #upload-file{
@@ -89,7 +89,7 @@ input[type="file"] {
     position: relative;
     display: block;
     text-align: center;
-    top: 50px;
+    top: 45px;
 }
 
 /*
